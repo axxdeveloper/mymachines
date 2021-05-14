@@ -9,7 +9,7 @@
     inet 192.168.1.106/24 brd 192.168.1.255 scope global noprefixroute enp2s0
        valid_lft forever preferred_lft forever
     inet6 2001:b011:300d:3c91:e269:95ff:fe5b:bfc8/64 scope global dynamic mngtmpaddr noprefixroute 
-       valid_lft 86364sec preferred_lft 86364sec
+       valid_lft 86289sec preferred_lft 86289sec
     inet6 fe80::e269:95ff:fe5b:bfc8/64 scope link noprefixroute 
        valid_lft forever preferred_lft forever
 3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
