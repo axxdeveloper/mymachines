@@ -2,7 +2,7 @@ sleep 30 #wait for interfaces up
 HOST=`hostname`
 cd /home/isaac/projects/mymachines
 echo "`ip addr | grep inet`" > $HOST.txt
-git pull
+git pull --no-edit
 git add .
 git commit -m 'change ip for '"$HOST"
 git push -f
