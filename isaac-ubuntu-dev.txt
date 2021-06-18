@@ -5,3 +5,4 @@
     inet 192.168.122.1/24 brd 192.168.122.255 scope global virbr0
     inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
     inet6 fe80::42:ecff:fed2:18d6/64 scope link 
+    inet6 fe80::e8f0:11ff:fe6d:9060/64 scope link 
