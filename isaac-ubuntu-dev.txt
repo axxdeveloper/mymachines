@@ -3,5 +3,5 @@
     inet 10.206.79.158/23 brd 10.206.79.255 scope global dynamic noprefixroute enp5s0
     inet6 fe80::8e9:5830:42d3:faea/64 scope link noprefixroute 
     inet 192.168.122.1/24 brd 192.168.122.255 scope global virbr0
-    inet 172.19.0.1/16 brd 172.19.255.255 scope global br-ac3f1721d875
     inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+    inet 172.19.0.1/16 brd 172.19.255.255 scope global br-ac3f1721d875
