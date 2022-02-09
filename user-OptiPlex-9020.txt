@@ -1,0 +1,6 @@
+    inet 127.0.0.1/8 scope host lo
+    inet6 ::1/128 scope host 
+    inet 10.206.78.94/23 brd 10.206.79.255 scope global eth0
+    inet6 fe80::20a:f7ff:fe92:ce36/64 scope link 
+    inet 172.17.0.1/16 scope global br-74b92736d386
+    inet 192.168.70.1/23 scope global docker0
