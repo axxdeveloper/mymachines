@@ -6,3 +6,5 @@
     inet6 fe80::5054:ff:fe9c:66d5/64 scope link 
     inet6 fe80::5054:ff:feac:a34f/64 scope link 
     inet 192.168.39.1/24 brd 192.168.39.255 scope global virbr1
+    inet6 fe80::fc54:ff:fe22:3e3a/64 scope link 
+    inet6 fe80::fc54:ff:fe82:4ead/64 scope link 
